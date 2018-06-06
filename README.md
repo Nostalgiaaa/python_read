@@ -6,3 +6,5 @@ Python入门工程师
 * 英文很差
 * 脾气很好
 
+gitbook地址 [https://python-fbw.gitbook.io/project/](https://python-fbw.gitbook.io/project/)
+
